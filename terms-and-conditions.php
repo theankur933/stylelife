@@ -14,6 +14,13 @@
     <link rel="stylesheet" href="assets/css/fontawesome.min.css">
     <link rel="stylesheet" href="assets/css/slick.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
+
+    <style>
+        .xyz{
+            display: flex;
+        }
+    </style>
+    
     <link
         rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.1/css/all.min.css">
@@ -161,3 +168,4 @@
 </body>
 
 </html>
+
