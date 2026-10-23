@@ -9,7 +9,7 @@
     <!-- Favicon Icon -->
     <link rel="icon" href="https://www.stylelifefame.com/assets/media/favicon.png">
     <!-- Site Title -->
-    <title>About Us - Stylelife Fame</title>
+    <title>About Us - </title>
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/fontawesome.min.css">
     <link rel="stylesheet" href="assets/css/slick.min.css">
