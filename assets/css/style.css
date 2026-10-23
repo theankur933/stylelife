@@ -2457,8 +2457,10 @@ h1,
 }
 
 .cs_fs_90 {
-    font-size: 90px;
+    /* font-size: 90px; */
+    font-size: 60px;
     line-height: 1.111em;
+    padding-bottom: 25px;
 }
 
 @media (max-width: 1600px) {
@@ -4344,7 +4346,7 @@ hr {
 }
 
 .cs_post_details.cs_style_1 p {
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 @media (max-width: 991px) {
@@ -9704,4 +9706,18 @@ hr {
     .cs_header_btns_2>.cs_social_links+.cs_search_toggle_btn {
         margin: 0;
     }
+}
+
+.login-btn{
+    border: 1px solid #d9d9e2;
+    padding: 5px 20px 5px 20px;
+    border-radius: 5px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.tag-line{
+    font-size: 15px;
+    background: gainsboro;
+    padding: 5px 10px 5px 10px;
+    border-radius: 50px;
 }

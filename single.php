@@ -21,7 +21,7 @@
 
 <body>
     <?php include 'header.php' ?>
-    
+
     <div class="cs_modal_search cs_center">
         <div class="cs_search_overlay cs_header_overlay"></div>
         <form action="" class="cs_modal_search_form">
@@ -38,17 +38,19 @@
     <!-- Start Page Header -->
     <div class="container-fluid">
         <section class="cs_page_heading_2 cs_center cs_primary_bg cs_bg_filed cs_radius_15" data-src="assets/img/blog_details_page_header_2.webp">
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <p class="cs_fs_23 cs_mb_30 cs_white_color">By <a href="">Diva</a> / 23 April 2024</p>
                     <h1 class="cs_fs_90 mb-0 cs_white_color">Behind the Seams: Inside the World of Fashion Design</h1>
                 </div>
-            </div>
+            </div> -->
         </section>
         <div class="cs_height_50 cs_height_lg_55"></div>
         <div class="row">
             <div class="col-lg-8 offset-lg-2">
                 <div class="cs_post_details cs_style_1">
+                    <span class="cs_fs_23 cs_mb_30 tag-line">By <a href="">Diva</a> / 23 April 2024</span>
+                    <h1 class="cs_fs_90 mb-0 mt-4">Behind the Seams: Inside the World of Fashion Design</h1>
                     <p>Welcome to "Behind the Seams," where we explore the fascinating world of fashion design. Fashion design is more than just creating beautiful clothing; it’s an art form that combines creativity, technical skill, and a deep understanding
                         of trends and cultural influences. In this blog, we'll take you behind the scenes to uncover the process of fashion design, from the initial concept to the final runway show. Join us as we delve into the intricacies of this glamorous
                         yet demanding industry.</p>
@@ -112,7 +114,7 @@
                             <a href=""><i class="fa-brands fa-linkedin-in"></i></a>
                             <a href=""><i class="fa-brands fa-facebook-f"></i></a>
                             <a href=""><i class="fa-brands fa-x-twitter"></i></a>
-                            <a href=""><i class="fa-brands fa-pinterest"></i></a> 
+                            <a href=""><i class="fa-brands fa-pinterest"></i></a>
                         </div>
                     </div>
                 </div>

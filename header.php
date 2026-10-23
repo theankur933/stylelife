@@ -26,7 +26,7 @@
                 </div>
                 <div class="cs_main_header_right">
                     <div class="cs_header_btns_2">
-                        <div class="cs_social_links cs_style_3">
+                        <!-- <div class="cs_social_links cs_style_3">
                             <a href=""><i class="fa-brands fa-instagram"></i></a>
                             <a href=""><i class="fa-brands fa-x-twitter"></i></a>
                             <a href=""><i class="fa-brands fa-linkedin-in"></i></a>
@@ -43,7 +43,9 @@
                                     </clipPath>
                                 </defs>
                             </svg>
-                        </button>
+                        </button> -->
+                        <a href="" class="login-btn">SignIn</a>
+                        <a href="" class="login-btn">SignUp</i></a>
                     </div>
                 </div>
             </div>
