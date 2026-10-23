@@ -24,7 +24,7 @@
             </ul>
             <div class="cs_copyright_wrap">
                 <div class="cs_copyright cs_accent_color">Stylelife Fame. All Rights Reserved. © <script type="text/javascript">
-                        var year = new Date();
+                        let year = new Date();
                         document.write(year.getFullYear());
                     </script>
                 </div>

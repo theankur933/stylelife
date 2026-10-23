@@ -5915,7 +5915,6 @@ hr {
     position: fixed !important;
     width: 100%;
     z-index: 999;
-    background-color: var(--white);
 }
 
 .cs_sticky_header .cs_top_header_in {

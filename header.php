@@ -1,5 +1,5 @@
 <!-- Start Header -->
-<header class="cs_site_header cs_style_1 cs_primary_color cs_sticky_header">
+<header class="cs_site_header cs_style_1 cs_primary_color cs_sticky_header bg-light">
     <div class="cs_main_header">
         <div class="container-fluid">
             <div class="cs_main_header_in">
@@ -12,14 +12,6 @@
                     <div class="cs_nav">
                         <div class="cs_nav_list_wrap">
                             <ul class="cs_nav_list">
-                                <!-- <li class="menu-item-has-children">
-                                    <a href="">Home</a>
-                                    <ul>
-                                        <li><a href="">Lifestyle</a></li>
-                                        <li><a href="">Podcast</a></li>
-                                        <li><a href="">Creative</a></li>
-                                    </ul>
-                                </li> -->
                                 <li><a href="category.php">Lifestyle</a></li>
                                 <li><a href="category.php">Fitness</a></li>
                                 <li><a href="category.php">Health</a></li>
