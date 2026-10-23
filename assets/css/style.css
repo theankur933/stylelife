@@ -5925,6 +5925,7 @@ hr {
 
 .cs_main_header {
     position: relative;
+    background-color: #fff !important;
 }
 
 .cs_hamburger_icon {
