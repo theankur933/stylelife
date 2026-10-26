@@ -380,44 +380,54 @@
         </div>
         <div class="text-center">
             <div class="cs_height_50 cs_height_lg_50"></div>
-            <a href="single.php" class="cs_btn cs_style_1 cs_type_1 cs_fs_23 cs_center cs_primary_bg cs_white_color"><span>Load More</span></a>
+            <a href="single.php" class="cs_btn cs_style_2 cs_type_1 cs_fs_23 cs_radius_15"><span>Load More</span></a>
         </div>
     </section>
     <!-- End Latest Blog -->
-    <div class="cs_height_150 cs_height_lg_80"></div>
+    <div class="cs_height_70 cs_height_lg_80"></div>
     <!-- Start Instagram Section -->
     <div class="container-fluid p-0">
         <ul class="cs_instagram_list cs_style_1 cs_type_1">
             <li>
-                <a href="" class="cs_instagram">
-                    <img src="assets/img/instagram_4.webp" alt="Instagram">
-                    <i class="fa-brands fa-instagram"></i>
+                <a href="https://www.stylelifefame.com/lifestyle" class="cs_instagram">
+                    <img src="assets/img/bottom-banner/1.png" alt="Bottom Banner 1">
+                    <i>Lifestyle</i>
+                    <i class="fa-brands"></i>
                 </a>
             </li>
+            <!--  -->
             <li>
-                <a href="" class="cs_instagram">
-                    <img src="assets/img/instagram_5.webp" alt="Instagram">
-                    <i class="fa-brands fa-instagram"></i>
+                <a href="https://www.stylelifefame.com/fitness" class="cs_instagram">
+                    <img src="assets/img/bottom-banner/2.png" alt="Bottom Banner 2">
+                    <i>Fitness</i>
+                    <i class="fa-brands"></i>
                 </a>
             </li>
+            <!--  -->
             <li>
-                <a href="" class="cs_instagram">
-                    <img src="assets/img/instagram_6.webp" alt="Instagram">
-                    <i class="fa-brands fa-instagram"></i>
+                <a href="https://www.stylelifefame.com/beauty" class="cs_instagram">
+                    <img src="assets/img/bottom-banner/3.png" alt="Bottom Banner 3">
+                    <i>Beauty</i>
+                    <i class="fa-brands"></i>
                 </a>
             </li>
+            <!--  -->
             <li>
-                <a href="" class="cs_instagram">
-                    <img src="assets/img/instagram_7.webp" alt="Instagram">
-                    <i class="fa-brands fa-instagram"></i>
+                <a href="https://www.stylelifefame.com/nutrition-diet" class="cs_instagram">
+                    <img src="assets/img/bottom-banner/4.png" alt="Bottom Banner 4">
+                    <i>Nutrition & Diet</i>
+                    <i class="fa-brands"></i>
                 </a>
             </li>
+            <!--  -->
             <li>
-                <a href="" class="cs_instagram">
-                    <img src="assets/img/instagram_8.webp" alt="Instagram">
-                    <i class="fa-brands fa-instagram"></i>
+                <a href="https://www.stylelifefame.com/skin-care" class="cs_instagram">
+                    <img src="assets/img/bottom-banner/5.png" alt="Bottom Banner 5">
+                    <i>Skin care</i>
+                    <i class="fa-brands"></i>
                 </a>
             </li>
+            <!--  -->
         </ul>
     </div>
     <!-- End Instagram Section -->
