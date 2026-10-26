@@ -21,7 +21,7 @@
 
 <body>
     <?php include 'header.php' ?>
-    
+
     <div class="cs_modal_search cs_center">
         <div class="cs_search_overlay cs_header_overlay"></div>
         <form action="" class="cs_modal_search_form">
@@ -157,7 +157,7 @@
                                 <p class="cs_post_meta cs_mb_21 cs_fs_23 cs_accent_color">Fashion</p>
                                 <h2 class="cs_post_title mb-0 cs_fs_32 cs_white_color"><a href="single.php">Debt-Free Journey: Breaking the Chains of Financial Burden</a></h2>
                             </div>
-                        </div>              
+                        </div>
                     </div>
                 </div>
             </div>
