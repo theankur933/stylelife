@@ -2783,8 +2783,10 @@ hr {
 }
 
 .cs_btn.cs_style_1.cs_type_1 {
-    height: 150px;
-    width: 150px;
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    background: #97dbe1;
 }
 
 .cs_btn.cs_style_2 {
@@ -9708,14 +9710,14 @@ hr {
     }
 }
 
-.login-btn{
+.login-btn {
     border: 1px solid #d9d9e2;
     padding: 5px 20px 5px 20px;
     border-radius: 5px;
     /* box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2); */
 }
 
-.tag-line{
+.tag-line {
     font-size: 15px;
     background: gainsboro;
     padding: 5px 10px 5px 10px;

@@ -31,7 +31,7 @@
                             <a href=""><i class="fa-brands fa-x-twitter"></i></a>
                             <a href=""><i class="fa-brands fa-linkedin-in"></i></a>
                             <a href=""><i class="fa-brands fa-facebook-f"></i></a>
-                        </div>
+                        </div> -->
                         <button class="cs_search_toggle_btn" type="button">
                             <svg width="25" height="26" viewBox="0 0 25 26" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <g>
@@ -43,7 +43,7 @@
                                     </clipPath>
                                 </defs>
                             </svg>
-                        </button> -->
+                        </button>
                         <a href="" class="login-btn">SignIn</a>
                         <a href="" class="login-btn">SignUp</i></a>
                     </div>
