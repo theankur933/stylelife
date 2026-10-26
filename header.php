@@ -44,8 +44,8 @@
                                 </defs>
                             </svg>
                         </button>
-                        <a href="" class="login-btn">SignIn</a>
-                        <a href="" class="login-btn">SignUp</i></a>
+                        <a href="https://www.stylelifefame.com/blogadmin/" class="login-btn">SignIn</a>
+                        <a href="https://www.stylelifefame.com/blogadmin/membership_signup.php" class="login-btn">SignUp</a>
                     </div>
                 </div>
             </div>
