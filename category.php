@@ -52,7 +52,7 @@
                     <div class="col-md-6">
                         <div class="cs_post cs_style_18">
                             <a href="single.php" class="cs_post_thumb cs_zoom cs_mb_34 cs_mb_lg_20 cs_radius_15">
-                                <img src="assets/img/post_118.webp" alt="Nikola" class="cs_zoom_in">
+                                <img src="assets/img/post_118.webp" alt="Nikola" class="cs_zoom_in cat_img">
                             </a>
                             <div class="cs_post_info">
                                 <p class="cs_post_meta cs_mb_17 cs_mb_lg_12 cs_fs_18">By <a href="">Nikola</a> / 14 April 2024</p>
