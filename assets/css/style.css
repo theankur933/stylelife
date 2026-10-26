@@ -9712,7 +9712,7 @@ hr {
     border: 1px solid #d9d9e2;
     padding: 5px 20px 5px 20px;
     border-radius: 5px;
-    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    /* box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2); */
 }
 
 .tag-line{
@@ -9720,4 +9720,5 @@ hr {
     background: gainsboro;
     padding: 5px 10px 5px 10px;
     border-radius: 50px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
 }
