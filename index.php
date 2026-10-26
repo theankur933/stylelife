@@ -379,7 +379,7 @@
             </div>
         </div>
         <div class="text-center">
-            <div class="cs_height_96 cs_height_lg_50"></div>
+            <div class="cs_height_50 cs_height_lg_50"></div>
             <a href="single.php" class="cs_btn cs_style_1 cs_type_1 cs_fs_23 cs_center cs_primary_bg cs_white_color"><span>Load More</span></a>
         </div>
     </section>

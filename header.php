@@ -5,7 +5,7 @@
             <div class="cs_main_header_in">
                 <div class="cs_main_header_left">
                     <a class="cs_site_branding" href="index.php">
-                        <img src="https://www.stylelifefame.com/assets/media/logo-dark.png" alt="Logo" style="height: 50px;">
+                        <img src="./assets/img/logo.png" alt="Logo" style="height: 50px;">
                     </a>
                 </div>
                 <div class="cs_main_header_center cs_center_full_width">
